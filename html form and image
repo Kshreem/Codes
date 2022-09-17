@@ -1,0 +1,72 @@
+// THIS IS FORM !!
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div align="center">
+        <h1>Institute of web developement</h1>
+    </div>
+        <div>
+            <form>
+                First name <input type="text"><br>
+                Last name <input type="text"><br>
+                Institue name <input type="text"><br>
+            </form>
+    
+            <h3>Gender</h3>
+            Male<input type="radio" name="gender">
+            Female<input type="radio" name="gender">
+            <h3>Courses</h3>
+            <select>
+                <option>CSE</option>
+                <option>EEE</option>
+                <option>CE</option>
+                <option>ME</option>
+                <option>ECE</option>
+                <option>R&A</option>
+            </select>
+            <br>
+            <h3>City</h3>
+            Mumbai<input type="checkbox">
+            Chennai<input type="checkbox">
+            Kolkata<input type="checkbox">
+            <br><br>
+            Age<input type="number"><br><br>
+            <input type="date"><br>
+            Email<input type="email"><br>
+            Password<input type="password"><br>
+            <input type="submit"> 
+            </div>
+            </body>
+            </html>
+            
+            
+            
+// THIS IS FOR IMAGE AND VIDEO.        
+            
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>image</title>
+</head>
+<body>
+    <div align="center">
+        <h1>images and video</h1>
+        <img src="R.jpg" width="800" height="500">
+        <video src="1958912666.mp4" controls width="800" height="500"></video>
+        
+    </div>
+</body>
+</html>
+
+       
+    
