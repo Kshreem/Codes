@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>mynewwebpage</title>
+</head>
+<body>
+     <div align="center">
+        <h1>Happy Rakshabandhan</h1>
+        <h3>Thank You</h3>
+        <br>
+        <ul type="square">
+            <li>hello</li>
+            <li>this</li>
+            <li>is</li>
+            <li>kshreem</li>
+        </ul>
+        <ol type="I">
+            <li>hello</li>
+            <li>this</li>
+            <li>is</li>
+            <li>kshreem</li>
+        </ol>
+    </div>
+</body>
+</html> 
